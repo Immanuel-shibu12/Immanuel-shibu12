@@ -221,7 +221,7 @@ Led national-level hackathon teams to build AI-powered solutions for real-world 
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Immanuel-shibu12&theme=tokyonight&hide_border=true&background=0d1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF" />
+<img src="https://streak-stats.demolab.com?user=Immanuel-shibu12&theme=tokyonight&hide_border=true&background=0d1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF" />
 
 </div>
 
