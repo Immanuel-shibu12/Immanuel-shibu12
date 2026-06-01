@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Immanuel%20Shibu%20Chandy&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20ML%20Developer%20%7C%20Full-Stack%20Builder&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Immanuel%20Shibu%20Chandy&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Student%20%7C%20ML%20%7C%20Full-Stack%20%7C%20Cloud&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&lines=AI+%26+Data+Science+Engineer;Machine+Learning+Developer;Full-Stack+Problem+Solver;Hackathon+Champion+%F0%9F%8F%86;Building+Intelligent+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&lines=AI+%26+Data+Science+Student;Machine+Learning+Enthusiast;Full-Stack+Developer;3rd+Year+B.Tech+Student;Building+Real-World+Projects)](https://git.io/typing-svg)
 
 <br/>
 
@@ -36,7 +36,7 @@
 
 <br/>
 
-I'm an **AI & Data Science Engineer** passionate about building intelligent systems that solve real-world problems. With hands-on experience in **machine learning pipelines**, **full-stack development**, and **cloud deployment**, I bridge the gap between raw data and impactful solutions.
+I'm a **3rd year B.Tech student** specializing in **Artificial Intelligence & Data Science**, passionate about learning and building intelligent systems that solve real-world problems. I enjoy working with **machine learning**, **full-stack development**, and **data-driven projects** — turning ideas into working applications.
 
 - 🤖 Completed an **AI Internship at NoviTech R&D** — working on real model training, testing & evaluation workflows
 - 🏆 **Team Leader at Smart India Hackathon 2024 & 2025** — built solutions for national-level challenges, presented to industry experts
@@ -51,7 +51,7 @@ I'm an **AI & Data Science Engineer** passionate about building intelligent syst
 
 | 🎓 Education | 💼 Experience | 🌐 Languages | 🎯 Goal |
 |:---:|:---:|:---:|:---:|
-| B.Tech – AI & Data Science | AI Intern @ NoviTech R&D | English • Malayalam • Tamil | ML / AI Engineer Role |
+| B.Tech – AI & Data Science (3rd Year) | AI Intern @ NoviTech R&D | English • Malayalam • Tamil | ML / AI Role after Graduation |
 
 </div>
 
@@ -243,10 +243,7 @@ Led national-level hackathon teams to build AI-powered solutions for real-world 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Immanuel-shibu12)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Immanuel-shibu12)
 
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/immanuelshibuchandy)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/immanuelshibu)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/immanuelshibu)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://immanuel-porfolio.netlify.app/)
 
 </div>
 
