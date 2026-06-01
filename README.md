@@ -10,13 +10,13 @@
 
 <!-- Social Badges -->
 [![Email](https://img.shields.io/badge/Email-immanuelshibuc%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:immanuelshibuc@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/immanuel-shibu-chandy)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/immanuel-shibu-chandy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Immanuel-shibu12)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Immanuel-shibu12)
 [![Location](https://img.shields.io/badge/📍_Doha,_Qatar-Available_for_Opportunities-00b4d8?style=for-the-badge)](#)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=immanuel-shibu-chandy&color=00D4FF&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Immanuel-shibu12&color=00D4FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -214,50 +214,24 @@ Led national-level hackathon teams to build AI-powered solutions for real-world 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=immanuel-shibu-chandy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=immanuel-shibu-chandy&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Immanuel-shibu12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Immanuel-shibu12&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=ffffff"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=immanuel-shibu-chandy&theme=tokyonight&hide_border=true&background=0d1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Immanuel-shibu12&theme=tokyonight&hide_border=true&background=0d1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=immanuel-shibu-chandy&bg_color=0d1117&color=00D4FF&line=00D4FF&point=ffffff&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Immanuel-shibu12&bg_color=0d1117&color=00D4FF&line=00D4FF&point=ffffff&area=true&hide_border=true" />
 
 </div>
 
 ---
-
-## 🎯 Currently Learning & Goals
-
-```yaml
-2025 Focus Areas:
-  Machine Learning:
-    - Deep Learning (CNNs, RNNs, Transformers)
-    - MLOps & Model Deployment (FastAPI, Docker, AWS SageMaker)
-    - LLM Fine-tuning & Prompt Engineering
-
-  Data Engineering:
-    - Apache Airflow (Workflow Orchestration)
-    - Apache Spark (Big Data Processing)
-    - dbt (Data Build Tool)
-    - PostgreSQL Advanced Querying
-
-  Cloud & Infrastructure:
-    - AWS Certified ML Specialty (Target)
-    - Terraform & Infrastructure as Code
-    - CI/CD Pipelines for ML
-
-Career Goals:
-  short_term: "Secure AI/ML Engineering or Data Science internship/role"
-  long_term:  "Build scalable AI systems that solve real-world problems"
-  dream_role: ["ML Engineer @ FAANG", "AI Researcher", "Data Scientist @ top startup"]
-```
 
 ---
 
@@ -266,8 +240,9 @@ Career Goals:
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:immanuelshibuc@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/immanuel-shibu-chandy)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/immanuel-shibu-chandy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Immanuel-shibu12)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Immanuel-shibu12)
+
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/immanuelshibuchandy)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/immanuelshibu)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/immanuelshibu)
