@@ -24,29 +24,36 @@
 
 ## 🧠 About Me
 
-```python
-class ImmanuelShibuChandy:
-    def __init__(self):
-        self.name        = "Immanuel Shibu Chandy"
-        self.role        = "AI & Data Science Engineer"
-        self.location    = "Doha, Qatar 🇶🇦"
-        self.education   = "B.Tech – Artificial Intelligence & Data Science"
-        self.focus       = ["Machine Learning", "Full-Stack Development",
-                            "Data Engineering", "Cloud AI Systems"]
-        self.languages   = ["Python 🐍", "C", "SQL"]
-        self.experience  = "AI Intern @ NoviTech R&D Pvt. Ltd."
-        self.hackathons  = ["SIH 2024 & 2025 – Team Leader 🏆",
-                            "India–Israel Hackathon – Finalist 🌍"]
+<div align="center">
 
-    def current_goal(self):
-        return "Building impactful AI systems & landing a top-tier ML/Data role"
+🎓 **B.Tech in Artificial Intelligence & Data Science** &nbsp;|&nbsp; 📍 **Doha, Qatar** &nbsp;|&nbsp; 💼 **Open to Opportunities**
 
-    def fun_fact(self):
-        return "I led an international hackathon team before finishing my degree 🚀"
+</div>
 
-me = ImmanuelShibuChandy()
-print(me.current_goal())
-```
+<br/>
+
+> 🚀 *"I led an international hackathon team before finishing my degree — and I'm just getting started."*
+
+<br/>
+
+I'm an **AI & Data Science Engineer** passionate about building intelligent systems that solve real-world problems. With hands-on experience in **machine learning pipelines**, **full-stack development**, and **cloud deployment**, I bridge the gap between raw data and impactful solutions.
+
+- 🤖 Completed an **AI Internship at NoviTech R&D** — working on real model training, testing & evaluation workflows
+- 🏆 **Team Leader at Smart India Hackathon 2024 & 2025** — built solutions for national-level challenges, presented to industry experts
+- 🌍 **Finalist at the India–Israel International Hackathon** — rapid prototyping & pitching at a global stage
+- 🛠️ Built projects spanning **ML-powered healthcare systems**, **EV infrastructure management**, and **full-stack hospital apps**
+- ☁️ Certified in **AWS Cloud**, **Cisco Networking**, **Python & ML (Infosys & Scaler)**
+- 🎯 Currently deepening expertise in **MLOps**, **Data Engineering pipelines**, and **LLM applications**
+
+<br/>
+
+<div align="center">
+
+| 🎓 Education | 💼 Experience | 🌐 Languages | 🎯 Goal |
+|:---:|:---:|:---:|:---:|
+| B.Tech – AI & Data Science | AI Intern @ NoviTech R&D | English • Malayalam • Tamil | ML / AI Engineer Role |
+
+</div>
 
 ---
 
