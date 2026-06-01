@@ -1,7 +1,10 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Immanuel%20Shibu%20Chandy&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=AI%20%26%20Data%20Science%20Student%20%7C%20ML%20%7C%20Full-Stack%20%7C%20Cloud&descSize=20&descAlignY=55&descAlign=50&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=140&section=header" />
+
+# 👋 Hi, I'm Immanuel Shibu Chandy
+### 🎓 AI & Data Science Student | 🤖 ML | 💻 Full-Stack | ☁️ Cloud
 
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&lines=AI+%26+Data+Science+Student;Machine+Learning+Enthusiast;Full-Stack+Developer;3rd+Year+B.Tech+Student;Building+Real-World+Projects)](https://git.io/typing-svg)
